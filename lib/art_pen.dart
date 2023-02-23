@@ -3,7 +3,7 @@ library art_pen;
 import 'dart:math';
 
 import 'package:boarding/util.dart' as util;
-import 'package:dartling/dartling.dart';
+import 'package:ednet_core/ednet_core.dart';
 
 part 'model/art_pen/art/pen/json/data.dart';
 part 'model/art_pen/art/pen/json/model.dart';
