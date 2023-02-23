@@ -20,11 +20,11 @@ based on [Semantic Versioning](http://semver.org/)
 
 *0.3.1* 2015-04-29 (Pub)
 
-+ update pubspec to depend on dartling at Pub
++ update pubspec to depend on EDNetCore at Pub
 
 *0.3.0* 2015-04-27 
 
-+ update to dartling 2.0.1
++ update to EDNetCore 2.0.1
 
 *0.3.0* 2015-04-24 
 
@@ -445,7 +445,7 @@ in order to use mixins
 *0.1.4* 2015-02-23
 
 + add avoid collisions
-+ add art pen (with dartling)
++ add art pen (with ednet_core)
 + add run programs and random commands
 + reorganize libraries
 
