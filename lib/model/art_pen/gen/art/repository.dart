@@ -2,7 +2,7 @@ part of art_pen;
 
 // src/data/gen/art/repository.dart
 
-class ArtRepo extends Repo {
+class ArtRepo extends Repository {
 
   static final artDomainCode = "Art";
   static final artPenModelCode = "Pen";
