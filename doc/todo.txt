@@ -10,7 +10,7 @@ To do
   http://docs.closure-library.googlecode.com/git/namespace_goog_color.html
   consult http://docs.closure-library.googlecode.com/git/class_goog_math_Rect.html
 - use model/grid/composition.dart in detris (tetris) based on the datris example
-  https://github.com/dzenanr/datris
+  https://github.com/ednet-dev/datris
 - use ImageData to convert an image to a matrix of pixels and use the matrix in p_art
 - add sound to the crash example
 - add images to the memory example

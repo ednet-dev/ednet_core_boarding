@@ -1,6 +1,6 @@
 Links
 
-https://github.com/dzenanr/invaders
+https://github.com/ednet-dev/invaders
 
 http://www.computerhope.com/issues/ch001002.htm
 https://www.youtube.com/watch?v=dgSsBT-rJuw

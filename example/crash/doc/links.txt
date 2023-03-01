@@ -1,5 +1,5 @@
 Links
 
-https://github.com/dzenanr/collision_clones
-https://github.com/dzenanr/car_collisions
+https://github.com/ednet-dev/collision_clones
+https://github.com/ednet-dev/car_collisions
 

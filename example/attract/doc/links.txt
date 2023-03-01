@@ -1,7 +1,7 @@
 Links
 
 http://cssdeck.com/item/602/html5-canvas-particles-web-matrix
-https://github.com/dzenanr/attracting_particles
+https://github.com/ednet-dev/attracting_particles
 
 http://en.wikipedia.org/wiki/RGBA_color_space
 http://www.css3.info/preview/rgba/

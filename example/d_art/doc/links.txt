@@ -27,8 +27,8 @@ Logo Links
 
 google turtle geometry
 
-https://github.com/dzenanr/art_pen
-https://github.com/dzenanr/dart_pen
+https://github.com/ednet-dev/art_pen
+https://github.com/ednet-dev/dart_pen
 
 http://simple.wikipedia.org/wiki/Logo_(programming_language)
 http://el.media.mit.edu/logo-foundation/logo/programming.html
