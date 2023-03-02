@@ -4,7 +4,7 @@
 [3-clause license ("New BSD License" or "Modified BSD License")](http://en.wikipedia.org/wiki/BSD_license)
 
 Copyright (c) ,
-[boarding](http://pub.dartlang.org/packages/boarding) authors
+[boarding](http://pub.dartlang.org/packages/ednet_cms) authors
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

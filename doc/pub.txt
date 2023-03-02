@@ -1,7 +1,7 @@
 Pub Package Manager
 
 https://pub.dartlang.org/
-https://pub.dartlang.org/packages/boarding
+https://pub.dartlang.org/packages/ednet_cms
 
 https://www.dartlang.org/tools/pub/cmd/pub-cache.html
 pub cache repair
